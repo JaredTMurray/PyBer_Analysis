@@ -23,7 +23,9 @@ Average fare per ride for each city type yields Brandonfort, which is a Rural ci
 
 The highest average fare per driver for each city is the rural city: Jessicaport $36.013333, while the lowest average fares were in Urban Cities. 
 
-A summary of all the cites stats was calculated. This summary showed the highest fares, riders and drivers were in Suburban areas while rural had the least.
+## Summary
+
+of all the cites stats was calculated. This summary showed the highest fares, riders and drivers were in Suburban areas while rural had the least.
 
 
 
