@@ -21,6 +21,12 @@ Urban cities have the highest fares especially in the cities Carriemouth: $764.4
 
 Average fare per ride for each city type yields Brandonfort, which is a Rural city Bradshawfurt at $40.064000. 
 
+The highest average fare per driver for each city is the rural city: Jessicaport $36.013333, while the lowest average fares were in Urban Cities. 
+
+A summary of all the cites stats was calculated. This summary showed the highest fares, riders and drivers were in Suburban areas while rural had the least.
+
+
+
 ### Deliverable 2: A multiple-line chart of total fares for each city type
 
 ## Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types
