@@ -11,7 +11,8 @@ I have created serveral visualizations, Python scripts using Pandas libraries, t
 ## Results: 
 ### Deliverable 1: A ride-sharing summary DataFrame by city type
 The following dataframes, counts were created : urban_cities_df, suburban_cities_df and rural_cities_df, urban_ride_count, suburban_ride_count and rural_ride_count, 
-Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
+
+![Number of Rides per city](https://github.com/JaredTMurray/PyBer_Analysis/blob/main/analysis/Number_rides_cities%20.png)
 
 Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types
 
