@@ -14,8 +14,16 @@ The following dataframes, counts were created : urban_cities_df, suburban_cities
 
 ![Number of Rides per city](https://github.com/JaredTMurray/PyBer_Analysis/blob/main/analysis/Number_rides_cities%20.png)
 
-Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types
+There are more drivers in Urban cities (Carriemouth:1404, Christopherfurt:1107) than in Suburban and Rural cities. Overall, the rural cities had the least amount of drivers with Jessicaport only having 6. 
+![Number of Drivers per city](#)
 
+Urban cities have the highest fares especially in the cities Carriemouth: $764.49, Christopherfurt: $661.55. 
 
+Average fare per ride for each city type yields Brandonfort, which is a Rural city Bradshawfurt at $40.064000. 
 
 ### Deliverable 2: A multiple-line chart of total fares for each city type
+
+## Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types
+
+
+
