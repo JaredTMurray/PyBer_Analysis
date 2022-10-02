@@ -5,7 +5,7 @@ The analysis should contain the following:
 
 I have created serveral visualizations, Python scripts using Pandas libraries, the Jupyter Notebook, and Matplotlib to create a variety of charts that showcase the relationship between the type of city and the number of drivers and riders, as well as the percentage of total fares, riders, and drivers by type of city. The analysis and visualizations produce will help Pyber improve access to ridesharing services and determine affordability for underserved neighborhoods. The following was implemented 
 - DataFrame of the ride-sharing data by city type (it consists of city_data and ride_data, both of which are csv files. These csv files were merged to form the dataframe  pyber_data_df).
-- Pandas and Matplotlib, to create a multiple-line graph that shows the total weekly fares for each city type. Please click on the hyperlink [Pyber_Challenge](#) to view the code of the analysis
+- Pandas and Matplotlib, to create a multiple-line graph that shows the total weekly fares for each city type. Please click on the hyperlink [Pyber_Challenge](https://github.com/JaredTMurray/PyBer_Analysis/blob/main/PyBer_Challenge.ipynb) to view the code of the analysis
 - Finally, I wrote and submitted a written report that summarizes how the data differs by city type and how those differences can be used by decision-makers at PyBer.
 
 ## Results: 
