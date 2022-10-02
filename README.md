@@ -38,6 +38,9 @@ In Deliverable 2, a plot chart was created to highligh city types over the perio
 
 ![See Table](https://github.com/JaredTMurray/PyBer_Analysis/blob/main/analysis/Table_plot.png)
 
+This chart shows the distribution of fares based on the table above
+![See chart](https://github.com/JaredTMurray/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
+
 
 ## Summary
 ###  Three business recommendations to the CEO for addressing any disparities among the city types
