@@ -31,7 +31,17 @@ of all the cites stats was calculated. This summary showed the highest fares, ri
 
 ### Deliverable 2: A multiple-line chart of total fares for each city type
 
-## Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types
+Summary
+There are three recommendations I would suggest to the CEO. In the middle of February to mid March, people travel more in the Urban cities, increase marketing in the urban and suburban cities. 
+In the month of May, there was a decrease in travelling in all three cities. In the month of May, travelling around in all three city types decreased, hence, I would suggest decreasing the number of drivers around this time of year.  
+In the suburban area, during mid April to near the end of the month, there should be an increase in the number of drivers because the demand takes a sharp increase.  
 
+
+##  Three business recommendations to the CEO for addressing any disparities among the city types
+
+### Summary
+There are three recommendations I would suggest to the CEO. In the middle of February to mid March, people travel more in the Urban cities, increase marketing in the urban and suburban cities. 
+In the month of May, there was a decrease in travelling in all three cities. In the month of May, travelling around in all three city types decreased, hence, I would suggest decreasing the number of drivers around this time of year.  
+In the suburban area, during mid April to near the end of the month, there should be an increase in the number of drivers because the demand takes a sharp increase.  
 
 
