@@ -26,7 +26,7 @@ There are more drivers in Urban cities (Carriemouth:1404, Christopherfurt:1107) 
 
 Of all the cites stats was calculated. This summary showed the highest fares, riders and drivers were in Suburban areas while rural had the least.
 
-The Table of summary for fares, rides and driver count shows that urban cities has the highest fates while rural cites have the lowest.
+The Table of summary for fares, rides and driver count shows that urban cities has the highest fares profited over $40,000 while rural cites have the lowest, less than $5,000.
 
 ![See Image](https://github.com/JaredTMurray/PyBer_Analysis/blob/main/analysis/step%206-8.png)
 
