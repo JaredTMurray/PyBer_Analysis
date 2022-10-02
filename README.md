@@ -34,10 +34,10 @@ The Table of summary for fares, rides and driver count shows that urban cities h
 
 ### Deliverable 2: A multiple-line chart of total fares for each city type
 
-Summary
-There are three recommendations I would suggest to the CEO. In the middle of February to mid March, people travel more in the Urban cities, increase marketing in the urban and suburban cities. 
-In the month of May, there was a decrease in travelling in all three cities. In the month of May, travelling around in all three city types decreased, hence, I would suggest decreasing the number of drivers around this time of year.  
-In the suburban area, during mid April to near the end of the month, there should be an increase in the number of drivers because the demand takes a sharp increase.  
+In Deliverable 2, a plot chart was created to highligh city types over the period January to May. The following is a table of the sum of the fares based by city type.
+
+![See Table](https://github.com/JaredTMurray/PyBer_Analysis/blob/main/analysis/Table_plot.png)
+
 
 ## Summary
 ###  Three business recommendations to the CEO for addressing any disparities among the city types
