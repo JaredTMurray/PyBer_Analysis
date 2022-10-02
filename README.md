@@ -24,7 +24,8 @@ There are more drivers in Urban cities (Carriemouth:1404, Christopherfurt:1107) 
 - The highest average fare per driver for each city is the rural city: Jessicaport $36.013333, while the lowest average fares were in Urban Cities. 
 
 
-of all the cites stats was calculated. This summary showed the highest fares, riders and drivers were in Suburban areas while rural had the least.
+Of all the cites stats was calculated. This summary showed the highest fares, riders and drivers were in Suburban areas while rural had the least.
+
 
 
 ### Deliverable 2: A multiple-line chart of total fares for each city type
