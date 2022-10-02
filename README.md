@@ -26,6 +26,8 @@ There are more drivers in Urban cities (Carriemouth:1404, Christopherfurt:1107) 
 
 Of all the cites stats was calculated. This summary showed the highest fares, riders and drivers were in Suburban areas while rural had the least.
 
+Table of summary for fares, rides and driver count f
+
 
 
 ### Deliverable 2: A multiple-line chart of total fares for each city type
